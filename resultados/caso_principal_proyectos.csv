@@ -1,0 +1,21 @@
+proyecto,inversion_mdp,horas,valor_mdp,razon,optimo,ag,voraz
+Almacén de datos corporativo,46.0,2210,39.44,111.08331077903684,0,1,0
+Migración de servidores a la nube,50.2,640,35.68,161.90210635328216,1,0,1
+Sensores IoT en planta,27.8,730,22.6,143.52701410979392,1,1,0
+ERP — proveedor A,24.7,940,21.58,128.92553654043985,0,1,0
+ERP — proveedor B,36.7,350,26.42,176.13665858989606,1,0,1
+Analítica avanzada de clientes,59.8,2190,47.64,119.95352093243153,0,0,0
+Portal de autoservicio,57.3,1340,42.74,138.30551495417365,0,0,0
+Mantenimiento predictivo,19.6,2030,22.88,90.1080891361552,0,0,0
+Automatización de cuentas por pagar,56.9,640,39.7,164.2273387224742,0,0,1
+CRM comercial,36.5,1490,30.86,120.14036054158247,0,1,0
+Ciberseguridad perimetral,10.9,950,13.34,107.29043529644443,1,1,1
+Capacitación en analítica,18.9,2400,23.94,83.53736942874802,1,0,0
+Rediseño de empaque,60.0,970,42.88,151.65852347349204,1,1,1
+Ampliación de la nave norte,38.7,350,27.62,176.62931215153208,0,1,1
+Ampliación de la nave sur,50.9,1950,41.34,119.42806127115642,1,0,0
+Línea de producto ecológica,22.1,2190,25.02,90.33296036235468,0,0,0
+Tienda en línea,12.9,1620,17.22,88.81112393206918,1,1,0
+Optimización de rutas de reparto,54.2,1550,41.72,130.8051059000814,0,0,0
+Certificación ISO 9001,45.0,990,33.96,143.40601466214235,1,0,0
+Paneles solares en techumbre,55.3,980,40.1,149.23649613706095,0,1,1

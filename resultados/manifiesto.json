@@ -1,0 +1,74 @@
+{
+  "fecha_ejecucion": "2026-10-07 19:01:29",
+  "entorno": {
+    "python": "3.11.16",
+    "plataforma": "macOS-27.0.1-arm64-arm-64bit",
+    "numpy": "2.4.6",
+    "pandas": "3.0.6",
+    "scipy": "1.17.1",
+    "matplotlib": "3.11.2"
+  },
+  "configuracion": {
+    "N": 100,
+    "e": 2,
+    "pc": 0.9,
+    "q": 0.5,
+    "pm_factor": 0.5,
+    "k": 2,
+    "W": 200
+  },
+  "metodos": {
+    "1": "M02",
+    "2": "M08",
+    "3": "M12",
+    "4": "M14",
+    "5": "M17",
+    "6": "M22",
+    "7": "M28"
+  },
+  "semillas_datos": {
+    "C50-F": 20261005,
+    "E20-F": 20261006,
+    "E20-D": 20261007,
+    "E50-F": 20261008,
+    "E50-D": 20261009
+  },
+  "semillas_calibracion": [
+    20261100,
+    20261109
+  ],
+  "semillas_evaluacion": [
+    20261011,
+    20261040
+  ],
+  "corridas": {
+    "calibracion": 130,
+    "evaluacion": 120,
+    "ablacion": 150
+  },
+  "evaluaciones_busqueda_evaluacion": 3782060,
+  "pruebas_superadas": 13,
+  "segundos_cuadernillo": 23.60789916702197,
+  "archivos": {
+    "ablacion_evaluacion.csv": "84f8e60ae6bd0adeaeece8b49d3d5d12daf8db4d33caf8db12efda50f86c2619",
+    "ablacion_resumen.csv": "aff27cc44249f0946d5c8522abc4219509eb89639de97a3c051c4835446b760d",
+    "busqueda_aleatoria.csv": "65377d8dbf39770e0578749d3df078e8a1d594373aa9a47c15d93f0e4c4fc76b",
+    "calibracion.csv": "42115ef8f6463003f4d45a45d320765cc2f7e09ae06732c28365b499555c207b",
+    "caso_principal_carteras.csv": "93777b286100cd1141be023fbc2d9426619eb1cb25ebcdb5f0c211419820fe1a",
+    "caso_principal_proyectos.csv": "187eb097d8aede8a8ef389820577bae1f07060d8608513f35dd644aeb13bd4fc",
+    "corridas.csv": "8367ec7e06e54a4823dffe5113ab599459d771f21e04f8a691f99f9b230fa040",
+    "historiales.csv": "decbdc5fb5fde1a9b85457cd1cd6b2c282eb2c4f6d92fe927be7c8e89c28f20d",
+    "instancias.csv": "250bd2853a71eea6d6c8634969ff5ed1088fa1940a1d7b634119cd0ecfb8d204",
+    "resumen.csv": "0a1939210af8158d0cd328c1de5b987804bb897398940ffd88c741b9f18d16b4"
+  },
+  "figuras": {
+    "ae_a03_01_siete_etapas.png": "76e18183cef64a9ede49979769dac433f006a3da2d7df8c93d60b7782f6e0bbf",
+    "ae_a03_02_calibracion.png": "11da7c7850ca4d32e039d8bdf4957cd086ac15c0feea18bb8f599471fb268b40",
+    "ae_a03_03_convergencia.png": "836a1e26c7a5d233c1188e3b090a6c2c5923fd12b62c18f9e61e935941a9d57f",
+    "ae_a03_04_brechas_finales.png": "ccfc3818e0dd5600a881567bd93756f138c4f1d51273b0055de2c38feff47ca3",
+    "ae_a03_05_factibilidad_diversidad.png": "3f2289464ecb9744d6e61443ca3172e7cf9e3d0b1d685550a8137db49d1f4a8e",
+    "ae_a03_06_m07_vs_m08.png": "de044b8f0dc1ec0b0b66bd524b4bc2907bc3beccd8a11fec70111a9a70b1bdae",
+    "ae_a03_07_cartera_principal.png": "4abfe541d1da02175646fd806051095b637e52a59fd453ee54c1d8c257af8957",
+    "ae_a03_08_distribucion_factible.png": "c26aaae862945cf2966bccf938d82799c7377055e536463f9d02181a834177f0"
+  }
+}
