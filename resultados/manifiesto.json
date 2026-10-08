@@ -1,5 +1,5 @@
 {
-  "fecha_ejecucion": "2026-10-07 19:01:29",
+  "fecha_ejecucion": "2026-10-07 19:08:33",
   "entorno": {
     "python": "3.11.16",
     "plataforma": "macOS-27.0.1-arm64-arm-64bit",
@@ -48,7 +48,7 @@
   },
   "evaluaciones_busqueda_evaluacion": 3782060,
   "pruebas_superadas": 13,
-  "segundos_cuadernillo": 23.60789916702197,
+  "segundos_cuadernillo": 23.819859499984886,
   "archivos": {
     "ablacion_evaluacion.csv": "84f8e60ae6bd0adeaeece8b49d3d5d12daf8db4d33caf8db12efda50f86c2619",
     "ablacion_resumen.csv": "aff27cc44249f0946d5c8522abc4219509eb89639de97a3c051c4835446b760d",
@@ -56,16 +56,16 @@
     "calibracion.csv": "42115ef8f6463003f4d45a45d320765cc2f7e09ae06732c28365b499555c207b",
     "caso_principal_carteras.csv": "93777b286100cd1141be023fbc2d9426619eb1cb25ebcdb5f0c211419820fe1a",
     "caso_principal_proyectos.csv": "187eb097d8aede8a8ef389820577bae1f07060d8608513f35dd644aeb13bd4fc",
-    "corridas.csv": "8367ec7e06e54a4823dffe5113ab599459d771f21e04f8a691f99f9b230fa040",
+    "corridas.csv": "a10037f724c83f53dfcea8000eff675a2ff99342bb8dce48de2132b44f34ebae",
     "historiales.csv": "decbdc5fb5fde1a9b85457cd1cd6b2c282eb2c4f6d92fe927be7c8e89c28f20d",
-    "instancias.csv": "250bd2853a71eea6d6c8634969ff5ed1088fa1940a1d7b634119cd0ecfb8d204",
-    "resumen.csv": "0a1939210af8158d0cd328c1de5b987804bb897398940ffd88c741b9f18d16b4"
+    "instancias.csv": "9a8bbf6222c78f7fd85f616dba64464ec695baa7a4f4b80a72e4a78cc011d269",
+    "resumen.csv": "6c6782d6764e6df242cd569bd2a9d007f6e0ce6c4128300f00dc4b584163553a"
   },
   "figuras": {
     "ae_a03_01_siete_etapas.png": "76e18183cef64a9ede49979769dac433f006a3da2d7df8c93d60b7782f6e0bbf",
     "ae_a03_02_calibracion.png": "11da7c7850ca4d32e039d8bdf4957cd086ac15c0feea18bb8f599471fb268b40",
-    "ae_a03_03_convergencia.png": "836a1e26c7a5d233c1188e3b090a6c2c5923fd12b62c18f9e61e935941a9d57f",
-    "ae_a03_04_brechas_finales.png": "ccfc3818e0dd5600a881567bd93756f138c4f1d51273b0055de2c38feff47ca3",
+    "ae_a03_03_brechas_finales.png": "ccfc3818e0dd5600a881567bd93756f138c4f1d51273b0055de2c38feff47ca3",
+    "ae_a03_04_convergencia.png": "836a1e26c7a5d233c1188e3b090a6c2c5923fd12b62c18f9e61e935941a9d57f",
     "ae_a03_05_factibilidad_diversidad.png": "3f2289464ecb9744d6e61443ca3172e7cf9e3d0b1d685550a8137db49d1f4a8e",
     "ae_a03_06_m07_vs_m08.png": "de044b8f0dc1ec0b0b66bd524b4bc2907bc3beccd8a11fec70111a9a70b1bdae",
     "ae_a03_07_cartera_principal.png": "4abfe541d1da02175646fd806051095b637e52a59fd453ee54c1d8c257af8957",
